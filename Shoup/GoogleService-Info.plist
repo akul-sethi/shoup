@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>369880077242-7c9dtj2loji0ross6p8olleb2j6qj711.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.369880077242-7c9dtj2loji0ross6p8olleb2j6qj711</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDkn5SkXqLV0j5x-2Y6791QYtv8I3RKAh0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>369880077242</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.shoup.Shoup</string>
+	<key>PROJECT_ID</key>
+	<string>shoup-a763b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>shoup-a763b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:369880077242:ios:dd71abc62ecca04641c383</string>
+</dict>
+</plist>
